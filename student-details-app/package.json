@@ -1,0 +1,13 @@
+{
+  "name": "student-details-app",
+  "version": "1.0.0",
+  "description": "Simple web app to add and retrieve student details, stored in a CSV file.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "license": "MIT"
+}
